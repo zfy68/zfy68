@@ -8,7 +8,7 @@
 
 
 ## 我的博客
-https://www.dangjinh.cn
+http://dangjinh.cn/
 
 ## 我的Twitter
 https://twitter.com/zfy68
