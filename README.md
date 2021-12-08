@@ -15,4 +15,4 @@
   
   我的Twitter：https://twitter.com/zfy68
   
-  我的📮：dangjinh@gmail.com
+  我的📮：zfyu68@gmail.com
