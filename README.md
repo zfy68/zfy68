@@ -1,7 +1,7 @@
 ### Hi 👋
-  My name is zfy68, I am currently living in Chengdu.
+  I'm zfy68, living in Chengdu.
   
-  Like cooking, listening to music, reading, chasing drama !
+  Like cooking,  music, reading !
  
 
 - 🔭 I’m currently working on ...
