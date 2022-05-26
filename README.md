@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning ...
 
 
-  myblog：https://github.com/zfy68/gitblog
+  blog：   https://github.com/zfy68/gitblog
   
-  growth history：https://github.com/zfy68/2022
+  growth： https://github.com/zfy68/2022
   
   Twitter：https://twitter.com/zfy68
   
