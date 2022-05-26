@@ -1,15 +1,16 @@
-### Hi 你好 👋
- 我是zfy68，目前定居成都。
- 喜欢做饭、听音乐、读书、追剧！
+### Hi 👋
+  My name is zfy68, I am currently living in Chengdu.
+  
+  Like cooking, listening to music, reading, chasing drama !
  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
 
-  博客：https://github.com/zfy68/gitblog
+  myblog：https://github.com/zfy68/gitblog
   
-  成长史：https://github.com/zfy68/2022
+  growth history：https://github.com/zfy68/2022
   
   Twitter：https://twitter.com/zfy68
   
