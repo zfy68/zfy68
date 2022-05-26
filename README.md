@@ -8,11 +8,11 @@
 - 🌱 I’m currently learning ...
 
 
-  blog：   https://github.com/zfy68/gitblog
+  blog：    https://github.com/zfy68/gitblog
   
-  growth： https://github.com/zfy68/2022
+  growth：  https://github.com/zfy68/2022
   
-  Twitter：https://twitter.com/zfy68
+  Twitter： https://twitter.com/zfy68
   
   📮：zfyu68@gmail.com
   
