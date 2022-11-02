@@ -1,8 +1,5 @@
 ### Hi 👋
   I'm zfy68, living in Chengdu.
-  
-  Like cooking,  music, reading !
- 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
